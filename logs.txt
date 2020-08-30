@@ -1,0 +1,183 @@
+2020/08/30 14:25:01 [10161] building file list
+2020/08/30 14:25:01 [10161] .d..t...... ./
+2020/08/30 14:25:01 [10161] sent 131 bytes  received 34 bytes  330.00 bytes/sec
+2020/08/30 14:25:01 [10161] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:25:13 [10184] building file list
+2020/08/30 14:25:13 [10184] *deleting   work2.txt
+2020/08/30 14:25:13 [10184] .d..t...... ./
+2020/08/30 14:25:13 [10184] >f+++++++++ file.txt
+2020/08/30 14:25:13 [10184] >f+++++++++ work.txt
+2020/08/30 14:25:13 [10184] sent 207 bytes  received 70 bytes  554.00 bytes/sec
+2020/08/30 14:25:13 [10184] total size is 0  speedup is 0.00
+2020/08/30 14:26:52 [10307] building file list
+2020/08/30 14:26:52 [10307] sent 122 bytes  received 12 bytes  268.00 bytes/sec
+2020/08/30 14:26:52 [10307] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:27:44 [10419] building file list
+2020/08/30 14:27:44 [10419] .d..t...... ./
+2020/08/30 14:27:44 [10419] cd+++++++++ img/
+2020/08/30 14:27:44 [10419] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:27:44 [10419] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:32:51 [10704] building file list
+2020/08/30 14:32:51 [10704] .d..t...... ./
+2020/08/30 14:32:51 [10704] cd+++++++++ img/
+2020/08/30 14:32:51 [10704] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:32:51 [10704] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:34:06 [10784] building file list
+2020/08/30 14:34:06 [10784] .d..t...... ./
+2020/08/30 14:34:06 [10784] cd+++++++++ img/
+2020/08/30 14:34:06 [10784] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:34:06 [10784] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:35:47 [10902] building file list
+2020/08/30 14:35:47 [10902] .d..t...... ./
+2020/08/30 14:35:47 [10902] cd+++++++++ img/
+2020/08/30 14:35:47 [10902] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:35:47 [10902] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:36:11 [10936] building file list
+2020/08/30 14:36:11 [10936] .d..t...... ./
+2020/08/30 14:36:11 [10936] cd+++++++++ img/
+2020/08/30 14:36:11 [10936] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:36:11 [10936] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:38:50 [11335] building file list
+2020/08/30 14:38:50 [11335] .d..t...... ./
+2020/08/30 14:38:50 [11335] cd+++++++++ img/
+2020/08/30 14:38:50 [11335] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:38:50 [11335] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:40:07 [11480] building file list
+2020/08/30 14:40:07 [11480] .d..t...... ./
+2020/08/30 14:40:07 [11480] cd+++++++++ img/
+2020/08/30 14:40:07 [11480] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:40:07 [11480] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:41:22 [11554] building file list
+2020/08/30 14:41:22 [11554] .d..t...... ./
+2020/08/30 14:41:22 [11554] cd+++++++++ img/
+2020/08/30 14:41:22 [11554] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:41:22 [11554] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:44:57 [11823] building file list
+2020/08/30 14:44:57 [11823] .d..t...... ./
+2020/08/30 14:44:57 [11823] cd+++++++++ img/
+2020/08/30 14:44:57 [11823] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:44:57 [11823] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:47:32 [11954] building file list
+2020/08/30 14:47:32 [11954] .d..t...... ./
+2020/08/30 14:47:32 [11954] cd+++++++++ img/
+2020/08/30 14:47:32 [11954] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:47:32 [11954] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:48:06 [12006] building file list
+2020/08/30 14:48:06 [12006] .d..t...... ./
+2020/08/30 14:48:06 [12006] cd+++++++++ img/
+2020/08/30 14:48:06 [12006] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:48:06 [12006] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:48:29 [12037] building file list
+2020/08/30 14:48:29 [12037] .d..t...... ./
+2020/08/30 14:48:29 [12037] cd+++++++++ img/
+2020/08/30 14:48:29 [12037] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:48:29 [12037] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:49:57 [12138] building file list
+2020/08/30 14:49:57 [12138] .d..t...... ./
+2020/08/30 14:49:57 [12138] cd+++++++++ img/
+2020/08/30 14:49:57 [12138] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:49:57 [12138] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:50:35 [12200] building file list
+2020/08/30 14:50:35 [12200] .d..t...... ./
+2020/08/30 14:50:35 [12200] cd+++++++++ img/
+2020/08/30 14:50:35 [12200] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:50:35 [12200] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:51:10 [12254] building file list
+2020/08/30 14:51:10 [12254] .d..t...... ./
+2020/08/30 14:51:10 [12254] cd+++++++++ img/
+2020/08/30 14:51:10 [12254] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:51:10 [12254] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:51:56 [12309] building file list
+2020/08/30 14:51:56 [12309] .d..t...... ./
+2020/08/30 14:51:56 [12309] cd+++++++++ img/
+2020/08/30 14:51:56 [12309] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:51:56 [12309] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:53:14 [12383] building file list
+2020/08/30 14:53:14 [12383] .d..t...... ./
+2020/08/30 14:53:14 [12383] cd+++++++++ img/
+2020/08/30 14:53:14 [12383] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:53:14 [12383] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:53:55 [12432] building file list
+2020/08/30 14:53:55 [12432] .d..t...... ./
+2020/08/30 14:53:55 [12432] cd+++++++++ img/
+2020/08/30 14:53:55 [12432] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:53:55 [12432] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:54:17 [12471] building file list
+2020/08/30 14:54:17 [12471] .d..t...... ./
+2020/08/30 14:54:17 [12471] cd+++++++++ img/
+2020/08/30 14:54:17 [12471] sent 203 bytes  received 41 bytes  488.00 bytes/sec
+2020/08/30 14:54:17 [12471] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:54:34 [12500] building file list
+2020/08/30 14:54:34 [12500] .d..t...... ./
+2020/08/30 14:54:34 [12500] cd+++++++++ img/
+2020/08/30 14:54:34 [12500] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:54:34 [12500] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:54:49 [12532] building file list
+2020/08/30 14:54:49 [12532] .d..t...... ./
+2020/08/30 14:54:49 [12532] cd+++++++++ img/
+2020/08/30 14:54:49 [12532] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:54:49 [12532] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:55:38 [12594] building file list
+2020/08/30 14:55:38 [12594] .d..t...... ./
+2020/08/30 14:55:38 [12594] cd+++++++++ img/
+2020/08/30 14:55:38 [12594] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:55:38 [12594] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 14:56:38 [12651] building file list
+2020/08/30 14:56:38 [12651] .d..t...... ./
+2020/08/30 14:56:38 [12651] cd+++++++++ img/
+2020/08/30 14:56:38 [12651] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 14:56:38 [12651] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 15:08:45 [13577] building file list
+2020/08/30 15:08:45 [13577] .d..t...... ./
+2020/08/30 15:08:45 [13577] cd+++++++++ img/
+2020/08/30 15:08:45 [13577] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 15:08:45 [13577] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 15:10:04 [13708] building file list
+2020/08/30 15:10:04 [13708] .d..t...... ./
+2020/08/30 15:10:04 [13708] cd+++++++++ img/
+2020/08/30 15:10:04 [13708] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 15:10:04 [13708] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 15:11:00 [13770] building file list
+2020/08/30 15:11:00 [13770] .d..t...... ./
+2020/08/30 15:11:00 [13770] cd+++++++++ img/
+2020/08/30 15:11:00 [13770] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 15:11:00 [13770] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 15:11:04 [13784] building file list
+2020/08/30 15:11:04 [13784] .d..t...... ./
+2020/08/30 15:11:04 [13784] cd+++++++++ img/
+2020/08/30 15:11:04 [13784] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 15:11:04 [13784] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 15:11:20 [13814] building file list
+2020/08/30 15:11:20 [13814] .d..t...... ./
+2020/08/30 15:11:20 [13814] cd+++++++++ img/
+2020/08/30 15:11:20 [13814] sent 203 bytes  received 41 bytes  488.00 bytes/sec
+2020/08/30 15:11:20 [13814] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 15:11:27 [13827] building file list
+2020/08/30 15:11:27 [13827] *deleting   2file.txt
+2020/08/30 15:11:27 [13827] .d..t...... ./
+2020/08/30 15:11:27 [13827] >f+++++++++ file.txt
+2020/08/30 15:11:27 [13827] >f+++++++++ work.txt
+2020/08/30 15:11:27 [13827] cd+++++++++ img/
+2020/08/30 15:11:27 [13827] >f+++++++++ img/image.png
+2020/08/30 15:11:27 [13827] sent 315 bytes  received 93 bytes  816.00 bytes/sec
+2020/08/30 15:11:27 [13827] total size is 0  speedup is 0.00
+2020/08/30 15:13:46 [13949] building file list
+2020/08/30 15:13:46 [13949] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/08/30 15:13:46 [13949] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 15:13:55 [13968] building file list
+2020/08/30 15:13:55 [13968] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/08/30 15:13:55 [13968] total size is 0  speedup is 0.00
+2020/08/30 16:18:39 [9686] building file list
+2020/08/30 16:18:39 [9686] .d..t...... ./
+2020/08/30 16:18:39 [9686] cd+++++++++ img/
+2020/08/30 16:18:39 [9686] sent 207 bytes  received 45 bytes  504.00 bytes/sec
+2020/08/30 16:18:39 [9686] total size is 0  speedup is 0.00 (DRY RUN)
+2020/08/30 16:24:22 [12081] building file list
+2020/08/30 16:24:22 [12081] *deleting   file2.txt
+2020/08/30 16:24:22 [12081] .d..t...... ./
+2020/08/30 16:24:22 [12081] >f+++++++++ file.txt
+2020/08/30 16:24:22 [12081] >f+++++++++ work.txt
+2020/08/30 16:24:22 [12081] cd+++++++++ img/
+2020/08/30 16:24:22 [12081] >f+++++++++ img/image.png
+2020/08/30 16:24:22 [12081] sent 315 bytes  received 93 bytes  816.00 bytes/sec
+2020/08/30 16:24:22 [12081] total size is 0  speedup is 0.00
