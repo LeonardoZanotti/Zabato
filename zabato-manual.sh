@@ -26,7 +26,8 @@ if [ $resp = 'y' ] || [ $resp = 'Y' ]; then
     echo
     rsync -auvn --progress --delete --exclude='.DS_Store' --log-file=$logfile $orig $dest       ## backup test to confirm the backup
     echo
-    echo -n "Transfering " && du -sh $orig && echo "Continue? [y/n]"    
+    echo "Transfering"\ `du -sh $orig`\ 'to' $dest
+    echo "Continue? [y/n]"
     read resp
     if [ $resp = 'y' ] || [ $resp = 'Y' ]; then
         rsync -auv --progress --delete --exclude='.DS_Store' --log-file=$logfile $orig $dest        ## official backup
@@ -39,4 +40,5 @@ else
     exit
 fi
 
+echo `date +"%F %T"`\ '- Manual backup done' >> $logfile
 echo 'Backup done'

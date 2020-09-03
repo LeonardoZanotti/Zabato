@@ -181,3 +181,213 @@
 2020/08/30 16:24:22 [12081] >f+++++++++ img/image.png
 2020/08/30 16:24:22 [12081] sent 315 bytes  received 93 bytes  816.00 bytes/sec
 2020/08/30 16:24:22 [12081] total size is 0  speedup is 0.00
+2020/09/03 10:35:56 [7280] building file list
+2020/09/03 10:35:56 [7280] *deleting   file2.txt
+2020/09/03 10:35:56 [7280] .d..t...... ./
+2020/09/03 10:35:56 [7280] >f+++++++++ file.txt
+2020/09/03 10:35:56 [7280] >f+++++++++ work.txt
+2020/09/03 10:35:56 [7280] cd+++++++++ img/
+2020/09/03 10:35:56 [7280] >f+++++++++ img/image.png
+2020/09/03 10:35:56 [7280] sent 315 bytes  received 93 bytes  816.00 bytes/sec
+2020/09/03 10:35:56 [7280] total size is 0  speedup is 0.00
+Backup done
+2020/09/03 10:36:38 [7332] building file list
+2020/09/03 10:36:38 [7332] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:36:38 [7332] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:36:43 [7346] building file list
+2020/09/03 10:36:43 [7346] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:36:43 [7346] total size is 0  speedup is 0.00
+2020/09/03 10:37:14 [7387] building file list
+2020/09/03 10:37:14 [7387] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:37:14 [7387] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:37:14 [7392] building file list
+2020/09/03 10:37:14 [7392] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:37:14 [7392] total size is 0  speedup is 0.00
+Backup done
+2020/09/03 10:42:28 [7843] building file list
+2020/09/03 10:42:28 [7843] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:42:28 [7843] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:42:28 [7847] building file list
+2020/09/03 10:42:28 [7847] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:42:28 [7847] total size is 0  speedup is 0.00
+date Backup done
+2020/09/03 10:43:56 [7932] building file list
+2020/09/03 10:43:56 [7932] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:43:56 [7932] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:43:57 [7936] building file list
+2020/09/03 10:43:57 [7936] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:43:57 [7936] total size is 0  speedup is 0.00
+qui set  3 10:43:57 -03 2020
+Backup done
+2020/09/03 10:44:21 [8019] building file list
+2020/09/03 10:44:21 [8019] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:44:21 [8019] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:44:22 [8023] building file list
+2020/09/03 10:44:22 [8023] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:44:22 [8023] total size is 0  speedup is 0.00
+Backup done
+2020/09/03 10:47:00 [8153] building file list
+2020/09/03 10:47:00 [8153] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:47:00 [8153] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:47:03 [8157] building file list
+2020/09/03 10:47:03 [8157] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:47:03 [8157] total size is 0  speedup is 0.00
+Backup done
+2020/09/03 10:49:51 [8337] building file list
+2020/09/03 10:49:51 [8337] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:49:51 [8337] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:49:52 [8341] building file list
+2020/09/03 10:49:52 [8341] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:49:52 [8341] total size is 0  speedup is 0.00
+qui set 3 10:49:52 -03 2020 ; Backup done
+2020/09/03 10:50:03 [8386] building file list
+2020/09/03 10:50:03 [8386] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:50:03 [8386] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:50:03 [8390] building file list
+2020/09/03 10:50:03 [8390] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:50:03 [8390] total size is 0  speedup is 0.00
+qui set 3 10:50:03 -03 2020  Backup done
+2020/09/03 10:54:07 [8680] building file list
+2020/09/03 10:54:07 [8680] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:54:07 [8680] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:55:13 [8787] building file list
+2020/09/03 10:55:13 [8787] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:55:13 [8787] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:55:48 [8823] building file list
+2020/09/03 10:55:48 [8823] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:55:48 [8823] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:56:52 [8876] building file list
+2020/09/03 10:56:52 [8876] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:56:52 [8876] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:57:31 [8935] building file list
+2020/09/03 10:57:31 [8935] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:57:31 [8935] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:58:07 [8974] building file list
+2020/09/03 10:58:07 [8974] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:58:07 [8974] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:58:20 [9000] building file list
+2020/09/03 10:58:20 [9000] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:58:20 [9000] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:58:39 [9023] building file list
+2020/09/03 10:58:39 [9023] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:58:39 [9023] total size is 0  speedup is 0.00
+qui set 3 10:58:39 -03 2020  Backup done
+2020/09/03 10:59:56 [9114] building file list
+2020/09/03 10:59:56 [9114] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:59:56 [9114] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 10:59:58 [9126] building file list
+2020/09/03 10:59:58 [9126] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 10:59:58 [9126] total size is 0  speedup is 0.00
+2020-09-03  Backup done
+2020/09/03 11:00:38 [9222] building file list
+2020/09/03 11:00:38 [9222] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:00:38 [9222] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:00:39 [9226] building file list
+2020/09/03 11:00:39 [9226] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:00:39 [9226] total size is 0  speedup is 0.00
+ - Backup done
+2020/09/03 11:00:55 [9255] building file list
+2020/09/03 11:00:55 [9255] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:00:55 [9255] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:00:56 [9259] building file list
+2020/09/03 11:00:56 [9259] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:00:56 [9259] total size is 0  speedup is 0.00
+2020-09-03H  - Backup done
+2020/09/03 11:02:21 [9333] building file list
+2020/09/03 11:02:21 [9333] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:02:21 [9333] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:02:21 [9337] building file list
+2020/09/03 11:02:21 [9337] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:02:21 [9337] total size is 0  speedup is 0.00
+ - Backup done
+2020/09/03 11:03:31 [9409] building file list
+2020/09/03 11:03:31 [9409] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:03:31 [9409] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:03:32 [9413] building file list
+2020/09/03 11:03:32 [9413] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:03:32 [9413] total size is 0  speedup is 0.00
+2020-09-03+11:03:32  - Backup done
+2020/09/03 11:03:53 [9443] building file list
+2020/09/03 11:03:53 [9443] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:03:53 [9443] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:03:53 [9447] building file list
+2020/09/03 11:03:53 [9447] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:03:53 [9447] total size is 0  speedup is 0.00
+ - Backup done
+2020/09/03 11:04:02 [9481] building file list
+2020/09/03 11:04:02 [9481] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:04:02 [9481] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:04:02 [9485] building file list
+2020/09/03 11:04:02 [9485] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:04:02 [9485] total size is 0  speedup is 0.00
+2020-09-0311:04:02  - Backup done
+2020/09/03 11:04:28 [9531] building file list
+2020/09/03 11:04:28 [9531] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:04:28 [9531] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:04:28 [9535] building file list
+2020/09/03 11:04:28 [9535] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:04:28 [9535] total size is 0  speedup is 0.00
+2020-09-03-11:04:28  - Backup done
+2020/09/03 11:04:40 [9586] building file list
+2020/09/03 11:04:40 [9586] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:04:40 [9586] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:04:42 [9598] building file list
+2020/09/03 11:04:42 [9598] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:04:42 [9598] total size is 0  speedup is 0.00
+ - Backup done
+2020/09/03 11:08:16 [9771] building file list
+2020/09/03 11:08:16 [9771] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:08:16 [9771] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:08:17 [9783] building file list
+2020/09/03 11:08:17 [9783] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:08:17 [9783] total size is 0  speedup is 0.00
+2020-09-03 11:08:17  - Backup done
+2020/09/03 11:08:36 [9825] building file list
+2020/09/03 11:08:36 [9825] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:08:36 [9825] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:08:37 [9829] building file list
+2020/09/03 11:08:37 [9829] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:08:37 [9829] total size is 0  speedup is 0.00
+2020-09-03 11:08:37 - Backup done
+2020/09/03 11:09:24 [9948] building file list
+2020/09/03 11:09:24 [9948] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:09:24 [9948] total size is 0  speedup is 0.00 (DRY RUN)
+2020/09/03 11:09:25 [9952] building file list
+2020/09/03 11:09:25 [9952] sent 188 bytes  received 13 bytes  402.00 bytes/sec
+2020/09/03 11:09:25 [9952] total size is 0  speedup is 0.00
+2020-09-03 11:09:25 - Backup done n
+2020/09/03 11:31:34 [11459] building file list
+2020/09/03 11:31:34 [11459] .d..t...... ./
+2020/09/03 11:31:34 [11459] >f+++++++++ file.txt
+2020/09/03 11:31:34 [11459] >f.st...... work.txt
+2020/09/03 11:31:34 [11459] cd+++++++++ img/
+2020/09/03 11:31:34 [11459] >f+++++++++ img/image.png
+2020/09/03 11:31:34 [11459] sent 345 bytes  received 88 bytes  866.00 bytes/sec
+2020/09/03 11:31:34 [11459] total size is 17  speedup is 0.04
+2020-09-03 11:31:34 - Auto backup done
+2020/09/03 11:32:08 [11520] building file list
+2020/09/03 11:32:08 [11520] sent 189 bytes  received 13 bytes  404.00 bytes/sec
+2020/09/03 11:32:08 [11520] total size is 17  speedup is 0.08
+2020-09-03 11:32:08 - Auto backup done
+2020/09/03 11:47:34 [12244] building file list
+2020/09/03 11:47:34 [12244] sent 189 bytes  received 13 bytes  404.00 bytes/sec
+2020/09/03 11:47:34 [12244] total size is 17  speedup is 0.08 (DRY RUN)
+2020/09/03 11:47:39 [12264] building file list
+2020/09/03 11:47:39 [12264] sent 189 bytes  received 13 bytes  404.00 bytes/sec
+2020/09/03 11:47:39 [12264] total size is 17  speedup is 0.08
+2020-09-03 11:47:39 - Manual backup done
+2020/09/03 12:05:02 [18907] building file list
+2020/09/03 12:05:02 [18907] .d..t...... ./
+2020/09/03 12:05:02 [18907] cd+++++++++ img/
+2020/09/03 12:05:02 [18907] sent 208 bytes  received 45 bytes  506.00 bytes/sec
+2020/09/03 12:05:02 [18907] total size is 17  speedup is 0.07 (DRY RUN)
+2020/09/03 12:06:34 [19218] building file list
+2020/09/03 12:06:34 [19218] *deleting   file2.txt
+2020/09/03 12:06:34 [19218] .d..t...... ./
+2020/09/03 12:06:34 [19218] >f+++++++++ file.txt
+2020/09/03 12:06:34 [19218] >f+++++++++ work.txt
+2020/09/03 12:06:34 [19218] cd+++++++++ img/
+2020/09/03 12:06:34 [19218] >f+++++++++ img/image.png
+2020/09/03 12:06:34 [19218] sent 337 bytes  received 93 bytes  860.00 bytes/sec
+2020/09/03 12:06:34 [19218] total size is 17  speedup is 0.04
+2020-09-03 12:06:34 - Manual backup done
